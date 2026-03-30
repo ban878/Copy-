@@ -1,0 +1,1 @@
+plugins {\n    kotlin("jvm") version "1.5.31"\n}\n\nallprojects {\n    group = "com.example"\n    version = "1.0-SNAPSHOT"\n}\n\nrepositories {\n    mavenCentral()\n}\n\ndependencies {\n    implementation(kotlin("stdlib"))\n}
