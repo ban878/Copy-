@@ -1,0 +1,43 @@
+# Built application files
+*.apk
+*.ap_ 
+
+# files for the ART (Android Runtime)
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+
+# Local configuration file (local.properties is used by Android Studio)
+local.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Android Studio Navigation xml file
+navigation.xml
+
+# log files
+*.log
+
+# External native build directory generated in Android Studio 2.2 and later
+.externalNativeBuild/
+
+# Google Services (e.g. APIs or Cloud Messaging) configuration file
+google-services.json
+
+# Gradle cache
+.gradle/caches/
+.gradle/wrapper/ 
+
+# Keystore files
+*.jks
+*.keystore
