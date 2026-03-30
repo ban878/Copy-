@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Copy App</string>
+    <string name="welcome_message">Welcome to the Copy App!</string>
+    <string name="login_prompt">Please log in to continue.</string>
+    <string name="logout">Logout</string>
+    <string name="error_message">An error has occurred. Please try again.</string>
+</resources>
